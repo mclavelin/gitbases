@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        gitbases
+        Nuxt Github et Netlify
       </h1>
       <div class="links">
         <a
