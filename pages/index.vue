@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        Nuxt Github et Netlify
+        Truc Nuxt Github et Netlify
       </h1>
       <div class="links">
         <a
